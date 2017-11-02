@@ -1,6 +1,6 @@
 # ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+For unknown reason you need to reinstal react-sparklines with comand 
 
 ### Getting Started
 
@@ -13,6 +13,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
 > cd ReduxSimpleStarter
 > npm install
+npm install --save react-sparklines@1.6.0     //For unknown reason you may need to re install react-sparklines with this command
 > npm start
 ```
 
